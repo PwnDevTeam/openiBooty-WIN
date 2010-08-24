@@ -1,0 +1,17 @@
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\bin\openiBooty.exe
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\bin\openiBooty.pdb
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\bin\openiBooty.xml
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\openiBooty\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\openiBooty\obj\Release\openiBooty.Main.resources
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\openiBooty\obj\Release\openiBooty.Resources.resources
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\openiBooty\obj\Release\openiBooty.vbproj.GenerateResource.Cache
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\openiBooty\obj\Release\openiBooty.exe
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\openiBooty\obj\Release\openiBooty.xml
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\openiBooty\obj\Release\openiBooty.pdb
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\src\obj\Release\openiBooty.exe
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\src\obj\Release\openiBooty.xml
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\src\obj\Release\openiBooty.pdb
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\src\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\src\obj\Release\openiBooty.Main.resources
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\src\obj\Release\openiBooty.Resources.resources
+C:\Users\Thim\Desktop\iPhone_dev\openiBooty-win\src\obj\Release\openiBooty.vbproj.GenerateResource.Cache
